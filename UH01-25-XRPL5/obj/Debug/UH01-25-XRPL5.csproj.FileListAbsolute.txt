@@ -1,0 +1,12 @@
+c:\users\rezki\documents\visual studio 2015\Projects\UH01-25-XRPL5\UH01-25-XRPL5\bin\Debug\UH01-25-XRPL5.exe.config
+c:\users\rezki\documents\visual studio 2015\Projects\UH01-25-XRPL5\UH01-25-XRPL5\obj\Debug\UH01-25-XRPL5.csprojResolveAssemblyReference.cache
+c:\users\rezki\documents\visual studio 2015\Projects\UH01-25-XRPL5\UH01-25-XRPL5\bin\Debug\UH01-25-XRPL5.exe
+c:\users\rezki\documents\visual studio 2015\Projects\UH01-25-XRPL5\UH01-25-XRPL5\bin\Debug\UH01-25-XRPL5.pdb
+c:\users\rezki\documents\visual studio 2015\Projects\UH01-25-XRPL5\UH01-25-XRPL5\obj\Debug\UH01-25-XRPL5.exe
+c:\users\rezki\documents\visual studio 2015\Projects\UH01-25-XRPL5\UH01-25-XRPL5\obj\Debug\UH01-25-XRPL5.pdb
+H:\Data\Tugas Sekolah\X RPL 5\Pemograman Dasar\UH01-25-XRPL5\UH01-25-XRPL5\bin\Debug\UH01-25-XRPL5.exe.config
+H:\Data\Tugas Sekolah\X RPL 5\Pemograman Dasar\UH01-25-XRPL5\UH01-25-XRPL5\obj\Debug\UH01-25-XRPL5.exe
+H:\Data\Tugas Sekolah\X RPL 5\Pemograman Dasar\UH01-25-XRPL5\UH01-25-XRPL5\obj\Debug\UH01-25-XRPL5.pdb
+H:\Data\Tugas Sekolah\X RPL 5\Pemograman Dasar\UH01-25-XRPL5\UH01-25-XRPL5\bin\Debug\UH01-25-XRPL5.exe
+H:\Data\Tugas Sekolah\X RPL 5\Pemograman Dasar\UH01-25-XRPL5\UH01-25-XRPL5\bin\Debug\UH01-25-XRPL5.pdb
+H:\Data\Tugas Sekolah\X RPL 5\Pemograman Dasar\UH01-25-XRPL5\UH01-25-XRPL5\obj\Debug\UH01-25-XRPL5.csprojResolveAssemblyReference.cache
